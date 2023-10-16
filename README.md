@@ -26,7 +26,7 @@
 
 4、用户前往自提点提货
 
-![image-20230307100451333](images\001.png)
+![image-20230307100451333](https://github.com/lucunxin/guigu-ssyx-parent/blob/master/images/001.png)
 
 
 
