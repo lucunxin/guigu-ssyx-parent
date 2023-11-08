@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 public class IndexController {
 
     /**
-     * 1 请求登陆的login 1
+     * 1 请求登陆的login
      */
     @PostMapping("login")
     public Result login() {
